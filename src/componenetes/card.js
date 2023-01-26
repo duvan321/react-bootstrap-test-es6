@@ -5,15 +5,18 @@ import "./cards.css";
 
 
 
+
+
 function Card({ title, imageSource, url, text }) {
+  
   return (
    
 
-
+    
 
     
     <div className="card text-center bg-dark animate__animated animate__flip">
-        
+       
       <div className="overflow">
         <img src={imageSource} alt="" className="card-img-top" />
       </div>
@@ -36,4 +39,8 @@ Card.propTypes = {
   url: PropTypes.string,
   imageSource: PropTypes.string,
 };
+
+export const ProductPage = ()=>{
+  <p>carrito</p>
+}
 export default Card;

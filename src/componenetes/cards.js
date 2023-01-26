@@ -28,12 +28,7 @@ const cards = [
     text:"La ballena jorobada visita una temporada más la Bahía de Cabo San Lucas, en el nororiental estado"
   },
 ];
-const randomCard = () => {
-  const card = cards[Math.floor(Math.random() * cards.length)];
-  return card;
-};
 
-module.exports = randomCard;
 
 
 

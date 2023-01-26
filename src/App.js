@@ -7,8 +7,8 @@ import "./App.css";
 function App() {
   return (
     <div className="APP">
-      <Carousel1/>
-     
+      <Carousel1 />
+      
       <Cards />
     </div>
   );
