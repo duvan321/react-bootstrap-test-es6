@@ -1,7 +1,7 @@
-- <h1>examples with bootstrap</h1>
+-
 
 <div id="header" align="center">
-
+ <h1>examples with bootstrap</h1>
 <h1 align="center">Hello 👋, welcomes.</h1>
 <h3 align="center">this is my teacher's homework.
 </div>
