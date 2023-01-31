@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/duvan321/react-bootstrap-test-es6/static/css/main.6a8ab318.css",
+    "main.js": "/duvan321/react-bootstrap-test-es6/static/js/main.04fde901.js",
+    "static/js/787.43668c23.chunk.js": "/duvan321/react-bootstrap-test-es6/static/js/787.43668c23.chunk.js",
+    "static/media/tortugas.jpg": "/duvan321/react-bootstrap-test-es6/static/media/tortugas.adc8b6fd11172eb97629.jpg",
+    "index.html": "/duvan321/react-bootstrap-test-es6/index.html",
+    "main.6a8ab318.css.map": "/duvan321/react-bootstrap-test-es6/static/css/main.6a8ab318.css.map",
+    "main.04fde901.js.map": "/duvan321/react-bootstrap-test-es6/static/js/main.04fde901.js.map",
+    "787.43668c23.chunk.js.map": "/duvan321/react-bootstrap-test-es6/static/js/787.43668c23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a8ab318.css",
+    "static/js/main.04fde901.js"
+  ]
+}
